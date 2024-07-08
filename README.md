@@ -1,8 +1,8 @@
-#Cryptogame MERN Project
+# Cryptogame MERN Project
 
-###Description
+### Description
 
-**Cryptogage** project just a leatning project for grow and show skills in MERN stack. Any corrections into poject without proper PR are ***strictly prohibited***. 
+**Cryptogame** project just a leatning project for grow and show skills in MERN stack. Any corrections into poject without proper PR are ***strictly prohibited***. 
 
 **Instructions**
 
